@@ -1,6 +1,4 @@
 test
-deepak
-deepak
-raju
-raju
+deepakdeepak
+rajuraju
 hello world
